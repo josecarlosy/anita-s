@@ -1,7 +1,22 @@
-}
+
   .logo {
-    padding: 150px;
-    padding-top: 15px;
+    left: 500px;
+    top: 100px;
+    /*padding: 150px;
+    padding-top: 15px;*/
     position: absolute;
     z-index: 9
+
   }
+  .landing {
+  position: relative;
+  z-index: 6;
+
+
+  }
+.intro {
+  left: 500px;
+  top: 400px;
+  position: absolute;
+  z-index: 6
+}
